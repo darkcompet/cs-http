@@ -1,26 +1,21 @@
 # Http for C#
 
-This provides core features for all Http modules as `csharp-net-http`, `csharp-unity-http`,...
+This provides core features for all Http modules as `cs-net-http`, `cs-unity-http`,...
 
-- Features
 
-	```bash
-	- Api schema, contract.
-	```
+## Dependencies
 
-- Dependencies
-
-	```bash
+```bash
 	# Tool.Compet.Core
 	https://github.com/darkcompet/csharp-core
-	```
+```
 
 
-## How to install
+## Installation
 
 - Just include it into project by add as git-submodule.
 	
-	```bash
+```bash
 	# Tool.Compet.Http
-	git submodule add https://github.com/darkcompet/csharp-core-http.git
-	```
+	git submodule add https://github.com/darkcompet/cs-http.git
+```
